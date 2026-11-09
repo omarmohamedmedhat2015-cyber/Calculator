@@ -1,39 +1,34 @@
-🧮 Calculator Project
+# 🧮 Calculator
 
-A simple and interactive calculator built using HTML, CSS, and JavaScript. This project provides a clean and user-friendly interface for performing basic mathematical calculations.
+A simple and modern calculator built using HTML, CSS, and JavaScript.
 
-🚀 Features
-Addition (+)
-Subtraction (-)
-Multiplication (×)
-Division (÷)
-Clear (C) functionality
-Responsive and user-friendly design
-Interactive buttons
-🛠️ Technologies Used
-HTML5 – For structuring the calculator.
-CSS3 – For styling and designing the user interface.
-JavaScript – For implementing the calculator's functionality and calculations.
-📂 Project Structure
-text
-Calculator/
-│
-├── calculator.html
-├── calculator.css
-└── calculator.js
+## ✨ Features
+- Basic arithmetic operations (+, -, ×, ÷)
+- Clear button to reset calculations
+- Interactive and easy-to-use interface
+- Clean and simple design
+- Responsive layout
 
-💻 How to Run the Project
-Clone this repository:
-bash
-git clone YOUR-REPOSITORY-LINK
+## 🛠️ Built With
+- HTML
+- CSS
+- JavaScript
 
-Open the project folder.
-Open calculator.html in your browser.
-Start calculating!
-🎯 Project Purpose
+## 🚀 Getting Started
 
-The main goal of this project was to practice and improve my front-end development skills by using HTML, CSS, and JavaScript to build a functional and interactive web application.
-<img width="683" height="839" alt="image" src="https://github.com/user-attachments/assets/d869e037-8d61-48d2-a4dc-5d9b23515b2c" />
+1. Clone the repository:
+   git clone YOUR-REPOSITORY-LINK
 
-👨‍💻 Author
-created by Omar Mohamed
+2. Open the project folder.
+3. Open index.html in your browser.
+4. Enjoy using the calculator!
+
+## 🎯 About The Project
+
+This project was created to practice my front-end development skills and improve my understanding of HTML, CSS, and JavaScript by building a functional calculator.
+<img width="683" height="839" alt="image" src="https://github.com/user-attachments/assets/8d52ef21-8da7-4cdf-aa73-9f42f014e2d6" />
+
+
+## 👨‍💻 Author:
+
+Created by Omar Moamed
