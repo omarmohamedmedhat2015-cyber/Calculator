@@ -17,11 +17,12 @@ A simple and modern calculator built using HTML, CSS, and JavaScript.
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   git clone YOUR-REPOSITORY-LINK
+   [git clone YOUR-REPOSITORY-LINK]
+   (https://github.com/omarmohamedmedhat2015-cyber/Calculator/tree/main)
 
-2. Open the project folder.
-3. Open index.html in your browser.
-4. Enjoy using the calculator!
+3. Open the project folder.
+4. Open index.html in your browser.
+5. Enjoy using the calculator!
 
 ## 🎯 About The Project
 
