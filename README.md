@@ -26,8 +26,8 @@ A simple and modern calculator built using HTML, CSS, and JavaScript.
 ## 🎯 About The Project
 
 This project was created to practice my front-end development skills and improve my understanding of HTML, CSS, and JavaScript by building a functional calculator.
-<img width="683" height="839" alt="image" src="https://github.com/user-attachments/assets/8d52ef21-8da7-4cdf-aa73-9f42f014e2d6" />
 
+<img width="683" height="839" alt="image" src="https://github.com/user-attachments/assets/8d52ef21-8da7-4cdf-aa73-9f42f014e2d6" />
 
 ## 👨‍💻 Author:
 
