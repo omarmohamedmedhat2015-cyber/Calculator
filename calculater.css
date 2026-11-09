@@ -1,0 +1,73 @@
+body{
+   background:radial-gradient(circle,rgb(57, 55, 55),black);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+.calc{
+   margin: 15px;
+   padding: 10px;
+   border: 4px  solid black;
+    justify-content: center;
+    width: 350px;
+    box-shadow: .6px 6px 0px black;
+    background-color: palevioletred;
+    border-radius: 15px;
+  }
+  #AC{
+   background-color: rgb(63, 184, 225);
+   color: rgb(47, 49, 50);
+   grid-column: span 2;
+   width: 160px;
+  }
+.buttons{
+   display: grid;
+   grid-template-columns: repeat(4,1fr);
+   gap: 5px;
+}
+button{
+   background-color: white;
+   color: palevioletred;
+width: 70px;
+height: 50px;
+border: 3px solid black;
+font-size: 25px;
+border-radius: 15px;
+box-shadow: 8px 8px 0px black;
+cursor: pointer;
+}
+#screen{
+   border: 3px solid black;
+   background-color: white;
+   color: palevioletred;
+   border-radius: 15px;
+   height: 45px;
+   width: 300px;
+   display: flex;
+   text-align: right;
+   margin: 10px;
+   font-size: 42px;
+}
+.operators{
+   background-color: palevioletred;
+   color: black;
+}
+#e{
+background-color: rgb(237, 36, 103);
+}
+.operators :hover{
+   opacity: 6px;
+background-color: grey;
+}
+.buttons :hover{
+   opacity: 6px;
+   background-color: grey;
+}
+#e :hover{
+   opacity: 6px;
+   background-color: grey;
+}
+#AC :hover{opacity: 6px;
+   background-color: grey
+}
