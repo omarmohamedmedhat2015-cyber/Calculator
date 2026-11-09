@@ -17,8 +17,8 @@ A simple and modern calculator built using HTML, CSS, and JavaScript.
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   [git clone YOUR-REPOSITORY-LINK]
-   (https://github.com/omarmohamedmedhat2015-cyber/Calculator/tree/main)
+   [git clone (https://github.com/omarmohamedmedhat2015-cyber/Calculator/tree/main)]
+ 
 
 3. Open the project folder.
 4. Open index.html in your browser.
